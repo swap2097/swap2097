@@ -26,9 +26,9 @@ Currently looking for **Frontend / React Internship** opportunities where I can 
 
 ---
 
-### 🔹 Product Listing / Dashboard App  
-📍 Live: https://weather-app-eight-blush-30.vercel.app/ 
-📂 Repo: https://github.com/swap2097/Weather-App
+### 🔹 Shopping cart  
+📍 Live: https://shopping-cart-flax-ten-33.vercel.app/ 
+📂 Repo: https://github.com/swap2097/Shopping-Cart
 
 - Search and filtering  
 - Pagination  
