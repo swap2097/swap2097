@@ -16,6 +16,11 @@ Currently looking for **Frontend / React Internship** opportunities where I can 
 
 ## 🚀 Featured Projects
 
+### 🔹 QuickAI App
+📍 Live: https://quick-ai-rosy-iota.vercel.app/
+📂 Repo:  https://github.com/swap2097/QuickAI 
+
+
 ### 🔹 React Weather App  
 📍 Live: https://weather-app-eight-blush-30.vercel.app/ 
 📂 Repo:  https://github.com/swap2097/Weather-App 
