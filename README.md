@@ -20,6 +20,13 @@ Currently looking for **Frontend / React Internship** opportunities where I can 
 📍 Live: https://quick-ai-rosy-iota.vercel.app/
 📂 Repo:  https://github.com/swap2097/QuickAI 
 
+---
+
+### 🔹 React Weather App 
+📍 Live: https://mern-stack-blog-client-iota.vercel.app/
+📂 Repo:  https://github.com/swap2097/Mern-Stack-Blog 
+
+---
 
 ### 🔹 React Weather App  
 📍 Live: https://weather-app-eight-blush-30.vercel.app/ 
